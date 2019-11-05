@@ -1,2 +1,2 @@
-<h1>Wang's Blog</h1>
+<title>Wang's Blog</title>
 Hello, World!
